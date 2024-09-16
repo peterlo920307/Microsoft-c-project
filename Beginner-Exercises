@@ -1,3 +1,5 @@
+//Calculate the average of the student's assignment scores
+
 int currentAssignments = 5;
 
 int sophia1 = 93;
